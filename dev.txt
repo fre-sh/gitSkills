@@ -1,2 +1,2 @@
 deving...
-edit of dev2
+conflict dev & dev2 solved
